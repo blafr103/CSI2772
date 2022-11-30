@@ -1,0 +1,3 @@
+﻿  myFile1.cpp
+C:\Users\bvlaf\Desktop\Fall term 2022\CSI2772\lab4\Devoir4_300015897\Ex1\myFile1.cpp(88,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Devoir4.vcxproj -> C:\Users\bvlaf\Desktop\Fall term 2022\CSI2772\lab4\Devoir4_300015897\Ex1\Debug\Devoir4.exe
